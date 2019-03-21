@@ -32,7 +32,7 @@ Please go to the [Youtube](https://www.youtube.com/HackingLive).
 Questions, bugs or suggestions to : hackinglivebooking@gmail.com
 
 # LICENSE
-IpScanner is licensed. 
+ShellFinder is licensed. 
 See [LICENSE](https://github.com/HackingEnVivo/ShellFinder/blob/master/LICENSE) for more information.
 
 We need partners, if you're interested in support or help contact.
